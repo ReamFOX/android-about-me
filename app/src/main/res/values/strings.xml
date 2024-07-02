@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Oleksandr Farion</string>
     <string name="yellow_star">Yellow star</string>
     <string name="bio">Hey there! Im Oleksandr, but you can call me Alex.
         I have a deep passion for developing, whether it’s coding new software,
