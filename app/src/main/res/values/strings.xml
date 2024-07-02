@@ -2,4 +2,23 @@
     <string name="app_name">About Me</string>
     <string name="name">Oleksandr Farion</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey there! Im Oleksandr, but you can call me Alex.
+        I have a deep passion for developing, whether it’s coding new software,
+        building innovative projects, or exploring the latest tech trends.
+        There’s something incredibly satisfying about solving complex problems
+        and seeing my ideas come to life through code.\n\nWhen Im not immersed in the world of development, you can usually find me with a
+        good book in hand. I love getting lost in different worlds, whether it’s fiction,
+        non-fiction, or anything in between. Reading helps me relax and fuels my
+        imagination, giving me fresh perspectives and ideas that I often bring into my work.
+        \n\nIm also a big fan of computer games. Gaming is my go-to way to unwind and have some fun.
+        I enjoy the thrill of new challenges, the strategy, and the creativity involved
+        in many games. It’s a great way to connect with friends and experience new
+        adventures, all from the comfort of my home.
+        \n\nBalancing these interests keeps my life exciting and fulfilling.
+        Whether Im developing, reading, or gaming, Im always eager to learn, grow,
+        and enjoy the journey. So, if you ever want to chat about the latest tech,
+        recommend a good book, or team up for a game, I’m your guy!
+    </string>
+
+
 </resources>

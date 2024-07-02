@@ -6,6 +6,7 @@
 
     <TextView
         android:id="@+id/name_text"
+        style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/layout_margin"
@@ -23,4 +24,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@android:drawable/btn_star_big_on" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/bio_text"
+            style="@style/NameStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
+            android:paddingBottom="@dimen/padding"
+            android:text="@string/bio"
+            android:textAlignment="textStart" />
+    </ScrollView>
 </LinearLayout>
